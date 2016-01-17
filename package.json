@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikermcneil/sails.git"
+    "url": "git://github.com/mikermcneil/sails-core.git"
   },
   "license": "MIT",
   "engines": {
