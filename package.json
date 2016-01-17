@@ -1,7 +1,7 @@
 {
   "name": "sails-core",
   "author": "Mike McNeil <@mikermcneil>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Experimental standalone core runtime package for Sails.",
   "homepage": "http://sailsjs.org",
   "keywords": [],
